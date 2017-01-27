@@ -1,6 +1,6 @@
 // Bike Share data stored as array of arrays
 
-var bikeArrayDirty = [
+var bikeArrayClean = [
   [
     "-75.16374",
     "39.95378",
